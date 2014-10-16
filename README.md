@@ -3,10 +3,10 @@ scrollWidth
 
 Tiny optional AMD module that will return you the browsers scrollbar width
 
-usage
+usage:
 
----
-require([scrollWidth], function(scrollWidth){
-  alert("My scroll's width is " + scrollWidth + "px");
-}):
----
+```javascript
+  require(['scrollWidth'], function(scrollWidth){
+    alert("My scroll's width is " + scrollWidth + "px");
+  });
+```
