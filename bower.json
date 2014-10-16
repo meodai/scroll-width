@@ -1,8 +1,6 @@
 {
-    "name": "scrollWidth",
-    "main": [
-        "scrollWidth.js"
-    ],
+    "name": "scrollwidth",
+    "main": "scrollWidth.js",
     "repository": {
         "type": "git",
         "url": "git://github.com/meodai/scrollWidth.git"
