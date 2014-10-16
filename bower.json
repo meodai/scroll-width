@@ -1,0 +1,27 @@
+{
+    "name": "scrollWidth",
+    "main": [
+        "scrollWidth.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/meodai/scrollWidth.git"
+    },
+    "keywords": [
+        "tools",
+        "metrics",
+        "browser"
+    ],
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ]
+}
