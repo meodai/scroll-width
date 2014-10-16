@@ -13,7 +13,7 @@
 
   var width;
 
-  function mesureScroll () {
+  function measureScroll () {
     var testDiv, cssAttributes, attr;
 
     //creates a DOM element
@@ -47,6 +47,6 @@
   }
 
   //returns the width if already measured
-  return width || mesureScroll();
+  return width || measureScroll();
 
 }));
