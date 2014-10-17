@@ -2,12 +2,12 @@
   // optional AMD https://github.com/umdjs/umd/blob/master/amdWeb.js
   if (typeof define === 'function' && define.amd) {
     // AMD. Register as an anonymous module.
-    define(['jquery'], factory);
+    define(factory);
   } else {
     // Browser globals
-    root.mediaQuery = factory(root.$);
+    root.scrollWidth = factory();
   }
-}(this, function ($) {
+}(this, function () {
   /*jslint browser: true */
   'use strict';
 
