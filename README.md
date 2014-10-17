@@ -5,7 +5,14 @@ Tiny AMD module that will return you the browsers scrollbar width
 
 can be installed via bower, AMD is optional.
 
-AMD usage:
+Installation
+
+##Bower
+```
+  bower install scrollwidth --save
+```
+
+##AMD usage:
 
 ```javascript
   require(['scrollWidth'], function(scrollWidth){
@@ -13,7 +20,7 @@ AMD usage:
   });
 ```
 
-without AMD:
+##without AMD:
 
 ```javascript
   alert("My scroll's width is " + window.scrollWidth + "px");
