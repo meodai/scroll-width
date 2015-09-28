@@ -1,8 +1,8 @@
-scrollWidth
+scroll-width
 ===========
 
+Because not everyone hides the scrollbar on OSX ;)
 Tiny AMD module that will return you the browsers scrollbar width
-
 can be installed via bower, AMD is optional.
 
 Installation
