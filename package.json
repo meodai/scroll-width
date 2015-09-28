@@ -1,0 +1,24 @@
+{
+  "name": "scroll-width",
+  "version": "0.3.0",
+  "description": "uses hightech javascript technology to discover your browsers scroll-bar width/height",
+  "main": "scroll-width.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/scrollWidth.git"
+  },
+  "keywords": [
+    "scroll",
+    "browser",
+    "metrics"
+  ],
+  "author": "meodai <meodai@gmail.com> (https://github.com/meodai/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/scrollWidth/issues"
+  },
+  "homepage": "https://github.com/meodai/scrollWidth#readme"
+}
