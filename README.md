@@ -7,9 +7,13 @@ can be installed via bower, AMD is optional.
 
 Installation
 
+##NPM
+```
+  npm install scroll-width --save
+```
 ##Bower
 ```
-  bower install scrollwidth --save
+  bower install scroll-width --save
 ```
 
 ##AMD usage:
