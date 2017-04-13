@@ -21,11 +21,11 @@
 
     //stores the CSS atributes
     cssAttributes = {
-      width: "100px",
-      height: "100px",
-      overflow: "scroll",
-      position: "absolute",
-      top: "-999px"
+      width: '100px',
+      height: '100px',
+      overflow: 'scroll',
+      position: 'absolute',
+      top: '-999px'
     };
 
     //sets all the styles on testDiv
@@ -46,7 +46,6 @@
     return width;
   }
 
-  //returns the width if already measured
+  // returns the width if already measured
   return width || measureScroll();
-
 }));
