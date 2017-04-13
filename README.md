@@ -7,16 +7,16 @@ can be installed via bower, AMD is optional.
 
 Installation
 
-##NPM
+## NPM
 ```
   npm install scroll-width --save
 ```
-##Bower
+## Bower
 ```
   bower install scroll-width --save
 ```
 
-##AMD usage:
+## AMD usage:
 
 ```javascript
   require(['scrollWidth'], function(scrollWidth){
@@ -24,7 +24,7 @@ Installation
   });
 ```
 
-##without AMD:
+## without AMD:
 
 ```javascript
   alert("My scroll's width is " + window.scrollWidth + "px");
